@@ -1,0 +1,3 @@
+title=1m-hellokivy
+author=Kevin
+orientation=landscape
